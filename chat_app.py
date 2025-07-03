@@ -1,8 +1,7 @@
 import google.generativeai as genai
 import streamlit as st
 
-# Replace with your actual API key
-genai.configure(api_key="AIzaSyDnMsQoYi5N0weH_uFpDazUc6B039YFC1A")
+# Replace with your actual API keygenai.configure(api_key="AIzaSyDnMsQoYi5N0weH_uFpDazUc6B039YFC1A")
 
 def chat_with_gemini(prompt, chat_history):
     model = genai.GenerativeModel("gemini-2.0-flash")  # Using Pro model for better responses
