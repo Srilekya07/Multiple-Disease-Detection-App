@@ -49,7 +49,7 @@ Upload medical images to get real-time predictions powered by convolutional neur
 
 ## ▶️ Watch Demo
 
-[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1lBQFru3zjjiSypZJZ0BFJ-AK2gcB37FZ/view?usp=drive_link)  
+[![Watch Demo](🎥)](https://drive.google.com/file/d/1lBQFru3zjjiSypZJZ0BFJ-AK2gcB37FZ/view?usp=drive_link)  
 *Click to watch a quick walkthrough of the app.*
 
 ## 🚀 Future Enhancements
@@ -66,9 +66,9 @@ Upload medical images to get real-time predictions powered by convolutional neur
 
 If you’d like to collaborate, contribute, or have any questions:
 
-- 📧 Email: [youremail@example.com](mailto:nsrilekya6336@gmail.com)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/nadella-srilekya-22773922a/)
-- 🌐 GitHub: [yourusername](https://github.com/Srilekya07)
+- 📧 Email: [nsrilekya6336@gmail.com](mailto:nsrilekya6336@gmail.com)
+- 💼 LinkedIn: [nadella-srilekya](https://www.linkedin.com/in/nadella-srilekya-22773922a/)
+- 🌐 GitHub: [Srilekya07](https://github.com/Srilekya07)
 
 ---
 
