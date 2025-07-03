@@ -16,6 +16,7 @@ Upload medical images to get real-time predictions powered by convolutional neur
 <div align="center">
   <img src="img1.png" alt="App Preview" width="700" style="border-radius:10px;"/>
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -49,7 +50,7 @@ Upload medical images to get real-time predictions powered by convolutional neur
 
 ## ▶️ Watch Demo
 
-[![Watch Demo](🎥)](https://drive.google.com/file/d/1lBQFru3zjjiSypZJZ0BFJ-AK2gcB37FZ/view?usp=drive_link)  
+[![Watch Demo]🎥](https://drive.google.com/file/d/1lBQFru3zjjiSypZJZ0BFJ-AK2gcB37FZ/view?usp=drive_link)  
 *Click to watch a quick walkthrough of the app.*
 
 ## 🚀 Future Enhancements
