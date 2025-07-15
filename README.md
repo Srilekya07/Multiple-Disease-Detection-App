@@ -9,7 +9,7 @@ Empowering faster diagnosis and supporting healthcare professionals with AI.
 ## 📌 Project Overview
 This app brings together several disease detection models under a single, unified interface:
 - 🧪 Eye Disease Detection
-- 🫁 Lung Disease Classification
+- 🫁   Lung Disease Detection
 - 🧵 Skin Cancer Classification 
 - 🧠 Brain Tumor Detection 
 Upload medical images to get real-time predictions powered by convolutional neural networks.
